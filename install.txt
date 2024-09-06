@@ -1,0 +1,2 @@
+clona la carpeta y crea la base de datos con el nombre api3 luego entra a la url
+mediante postman para poder hacer las peticiones GET, POST, PUT, DELETE 
